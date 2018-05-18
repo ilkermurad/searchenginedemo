@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\searchengine\searchengine\obj\Debug\searchengine.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\searchengine\searchengine\obj\Debug\searchengine.Form1.resources
+C:\Users\pc\Desktop\searchengine\searchengine\obj\Debug\searchengine.Properties.Resources.resources
+C:\Users\pc\Desktop\searchengine\searchengine\obj\Debug\searchengine.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\searchengine\searchengine\obj\Debug\searchengine.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\searchengine\searchengine\bin\Debug\searchengine.exe.config
+C:\Users\pc\Desktop\searchengine\searchengine\bin\Debug\searchengine.exe
+C:\Users\pc\Desktop\searchengine\searchengine\bin\Debug\searchengine.pdb
+C:\Users\pc\Desktop\searchengine\searchengine\bin\Debug\HtmlAgilityPack.dll
+C:\Users\pc\Desktop\searchengine\searchengine\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\pc\Desktop\searchengine\searchengine\bin\Debug\HtmlAgilityPack.xml
+C:\Users\pc\Desktop\searchengine\searchengine\obj\Debug\searchengine.csproj.CopyComplete
+C:\Users\pc\Desktop\searchengine\searchengine\obj\Debug\searchengine.exe
+C:\Users\pc\Desktop\searchengine\searchengine\obj\Debug\searchengine.pdb
